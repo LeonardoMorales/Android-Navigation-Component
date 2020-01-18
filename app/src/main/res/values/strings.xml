@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Navigation Component</string>
+    <string name="ver_transacciones">Ver Transacciones</string>
+    <string name="enviar_dinero">Enviar Dinero</string>
+    <string name="ver_balance">Ver Balance</string>
+    <string name="comida">Comida</string>
+    <string name="_300">$300</string>
+    <string name="datos">Datos</string>
+    <string name="_200">$200</string>
+    <string name="renta">Renta</string>
+    <string name="velas">Velas</string>
+    <string name="_3600">$3600</string>
+    <string name="utilidad">Utilidad</string>
+    <string name="_150">$150</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nombre">Nombre</string>
+    <string name="enviar">Enviar</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="_1_fue_enviado_a_leonardo">$1 fue enviado a Leonardo</string>
+    <string name="_1">$1</string>
+</resources>
